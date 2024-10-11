@@ -7,10 +7,12 @@
  # Citation
  If you find this project useful, please consider citing:
 
- > @inproceedings{unimatch,
-  title={Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation},
-  author={Yang, Lihe and Qi, Lei and Feng, Litong and Zhang, Wayne and Shi, Yinghuan},
-  booktitle={CVPR},
-  year={2023}
+ > @article{yin2024class, <br>
+  title={Class Probability Space Regularization for semi-supervised semantic segmentation}, <br>
+  author={Yin, Jianjian and Yan, Shuai and Chen, Tao and Chen, Yi and Yao, Yazhou}, <br>
+  journal={Computer Vision and Image Understanding}, <br>
+  pages={104146}, <br>
+  year={2024},  <br>
+  publisher={Elsevier}  <br>
 }
 

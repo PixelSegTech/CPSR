@@ -7,7 +7,7 @@
  # Citation
  If you find this project useful, please consider citing:
 
- > @article{yin2024class, <br>
+ @article{yin2024class, <br>
   title={Class Probability Space Regularization for semi-supervised semantic segmentation}, <br>
   author={Yin, Jianjian and Yan, Shuai and Chen, Tao and Chen, Yi and Yao, Yazhou}, <br>
   journal={Computer Vision and Image Understanding}, <br>

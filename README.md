@@ -4,3 +4,13 @@
  # Pipeline
  ![Network](https://github.com/PixelSegTech/CPSR/blob/main/Net.png)
 
+ # Citation
+ If you find this project useful, please consider citing:
+
+ > @inproceedings{unimatch,
+  title={Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation},
+  author={Yang, Lihe and Qi, Lei and Feng, Litong and Zhang, Wayne and Shi, Yinghuan},
+  booktitle={CVPR},
+  year={2023}
+}
+
